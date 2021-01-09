@@ -1,0 +1,72 @@
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\perel\Downloads\P5\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\babus\Desktop\gl\3daircraft\3Dtransformations\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\bin\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\obj\Debug\myOpenGL.exe
+C:\לימודים\שנה ב\קיץ\גרפיקה\babush\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\babus\Desktop\gl\babush\babush\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\perel\Desktop\babush2255\babush\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\test\Desktop\Computer science\babush2255\bird\babush\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\test\Desktop\Computer science\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\test\Desktop\Computer science\HiT - מדעי המחשב\babush2255\bird\Tomer Bird\myOpenGL\obj\Debug\myOpenGL.pdb
